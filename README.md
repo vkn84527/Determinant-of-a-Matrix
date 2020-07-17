@@ -1,5 +1,5 @@
 # Determinant-of-a-Matrix
-What is Determinant of a Matrix?
+
 Determinant of a Matrix is a special number that is defined only for square matrices (matrices which have same number of rows and columns). Determinant is used at many places in calculus and other matrix related algebra, it actually represents the matrix in term of a real number which can be used in solving system of linear equation and finding the inverse of a matrix.
 
 How to calculate?
