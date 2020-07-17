@@ -11,14 +11,14 @@ Cofactor of an element, is a matrix which we can get by removing row and column 
 | c, d | ------> a * d - b * c
 
 # Input:
-2
-4
-1 0 2 -1 3 0 0 5 2 1 4 -3 1 0 5 0
-3
-1 2 3 4 5 6 7 10 9
+2 </br>
+4<br/>
+1 0 2 -1 3 0 0 5 2 1 4 -3 1 0 5 0 <br/>
+3<br/>
+1 2 3 4 5 6 7 10 9<br/>
 
 # Output:
-30
+30 <br/>
 12
 
 Explanation:
