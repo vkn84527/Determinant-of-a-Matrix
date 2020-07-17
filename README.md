@@ -21,5 +21,4 @@ Cofactor of an element, is a matrix which we can get by removing row and column 
 30 <br/>
 12
 
-Explanation:
-Testcase 1: Determinant of the given matrix is 30.
+
